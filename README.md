@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/Eorana/QR-Code](https://github.com/Eorana/QR-Code)
-- Live Site URL: [https://eorana.github.io/QR-Code(https://eorana.github.io/QR-Code/index.html)
+- Live Site URL: [https://eorana.github.io/QR-Code](https://eorana.github.io/QR-Code/index.html)
 
 ## My process
 
